@@ -41,4 +41,4 @@ A type generally supported for 3D print.
 
 ## Other
 
-[Why do I start this repository? (Chinese)](WhyThisRepo.md)
+[Why do I start this repository? (Chinese)](WhyThisRepo_ch.md)
