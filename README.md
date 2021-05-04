@@ -10,3 +10,4 @@ Puzzling World
 https://johnrausch.com/PuzzlingWorld/
 
 Traditional Puzzle
+
