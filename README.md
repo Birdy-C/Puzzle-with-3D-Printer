@@ -3,30 +3,37 @@ Collector of puzzles that can be printed
 
 ## Puzzles
 
-### Puzzling World
+### [Puzzling World](Puzzles/PuzzlingWorld)
 
 This is organized according to this fascinating website https://johnrausch.com/PuzzlingWorld/
 
-[link](Puzzles/PuzzlingWorld)
+### [Traditional Puzzle ](Puzzles/Traditional)
 
-### Traditional Puzzle
+Here I'll put some traditional & famous puzzle, such as Klotski(华容道).
 
-[link](Puzzles/Traditional)
+### [Web Collection](Puzzles/Web)
+
+Those puzzles are collected from public 3D print website. I'll include link to models that look fun to me.
+
+### [Research-Related Puzzle](Puzzles/Research)
+
+Those part may not contain a good-formed .stl file or link, but it's good to see someone is trying to understand the pattern behind all the amazing work.
 
 
 
-## Tools1
+## Tools
 
-### Cube Converter
+### [ Cube Converter](Puzzles/Research)
 
-This is a tool for generate .STL file from [.cube](CubeConverter#cube-file) input.
+This is a tool for generate .stl file from [.cube](CubeConverter#cube-file) input.
+
+
 
 ## File types
-### .cube
+### [ .cube](CubeConverter#cube-file)
 
 This is a type I defined for cube structure input.
 
-[Reference](CubeConverter#cube-file)
 
 ### .stl
 
@@ -34,4 +41,4 @@ A type generally supported for 3D print.
 
 ## Other
 
-[Why do I start this repository?](WhyThisRepo.md)
+[Why do I start this repository? (Chinese)](WhyThisRepo.md)
