@@ -66,6 +66,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2428018862
 
 这也让我觉得Puzzle是一个非常有趣的领域吧。而且华容道买一个也要20多块钱呢，自己建模的话就很简单了。
 
+最后长这样 虽然打印精度很差但是勉强可以满足测试需求。。
+
+<img src="pic/klotski.png" width="30%">
+
 
 
 ----
